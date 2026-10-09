@@ -1,7 +1,7 @@
 
 # Hi, I'm Henriette 👋
 
-### Backend Developer | Java | AI & Embedded Systems
+### Backend Developer | AI & Embedded Systems
 
 I'm a software developer interested in building practical solutions through backend engineering, artificial intelligence, computer vision, and embedded systems. I enjoy solving problems, learning new technologies, and developing projects that address real-world challenges.
 
