@@ -1,6 +1,4 @@
-# Henriette
 
-Software developer with 2 years of experience in Java, Spring Boot, Python, and database systems. Passionate about AI, computer vision, embedded systems, cybersecurity, and building practical solutions to real-world problems.
 # Hi, I'm Henriette 👋
 
 ### Backend Developer | Java | AI & Embedded Systems
